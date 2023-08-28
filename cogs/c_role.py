@@ -2,7 +2,6 @@ import discord
 import json
 import re
 import sys
-sys.path.append(r'C:\Users\HUAWEI\Desktop\TestBot for Perky\cogs')
 from cogs.db_utils import db_utils
 from discord.ext import commands
 from discord import app_commands
